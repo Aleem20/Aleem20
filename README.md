@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspring Cybersecurity student | CTF player | Script Kidde!
 ----------------------------------------------------------
 
-I am an undergraduate student pursuing a Bachelor's degree in Science with a major in Cybersecurity and a minor in Computer Science. With a strong passion for cybersecurity, I have extensive experience in various security-related projects. Additionally, I have experience writing programs in Python and Java languages for automation tasks. I enjoy experimenting with Raspberry Pi, Arduino boards, and ESPs, exploring the realms of hardware and software integration.
+I am an undergraduate student pursuing a Bachelor of Science with a major in Cybersecurity and a minor in Computer Science. With a strong passion for cybersecurity, I have extensive experience in various security-related projects. Additionally, I have experience writing programs in Python and Java languages for automation tasks. I enjoy experimenting with Raspberry Pi, Arduino boards, and ESPs, exploring the realms of hardware and software integration.
 
 In my dedicated home lab, I have set up two servers, a NAS server and a type 1 hypervisor server enabling me to hone my red teaming skills and gain hands-on experience. My enthusiasm for cybersecurity is further demonstrated by my active involvement in the field. I consistently rank in the top 5% of users on the TryHackMe platform and actively participate in Capture The Flag (CTF) competitions, both locally and online. I take pride in my achievements, having emerged victorious in several CTF events.
 
