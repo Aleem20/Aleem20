@@ -13,6 +13,7 @@ With over 3 years of IT experience, I am deeply committed to expanding my knowle
 * 🌍  I'm based in Wisconsin
 * ✉️  You can contact me at [aleems1@protonmail.com](mailto:aleems1@protonmail.com)
 * 🧠  I'm learning about penetration testing, hardware hacking(love those Pi's), writing automation scripts, and lastly setting up my email server!
+* Check out my [Portfolio](https://aleem20.github.io/portfolio/)
 
 ### Skills
 
